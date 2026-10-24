@@ -59,10 +59,11 @@
 If you find this repository or our paper useful, please consider **starring** this repository and **citing** our paper. You are also welcome to explore our recent works on world modeling for navigation, including [**LCVN**](https://github.com/UWMILab/LCVN) (**NeurIPS 2026 Oral**), [**UniWM**](https://github.com/F1y1113/UniWM) (**ECCV 2026**), and [**GOViG**](https://github.com/F1y1113/GoViG) (**ACL 2026**).
 ```bibtex
 @inproceedings{dong2026havln,
-  author    = {Dong, Yifei and Wu, Fengyi and He, Qi and Kong, Lingdong and Li, Heng and Li, Minghan and Cheng, Zebang and Zhou, Yuxuan and Sun, Jingdong and Dai, Qi and Hauptmann, Alexander G. and Cheng, Zhi-Qi},
-  title     = {{HA-VLN 2.0: An Open Benchmark and Leaderboard for Human-Aware Navigation in Discrete and Continuous Environments with Dynamic Multi-Human Interactions}},
-  booktitle = {2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-  year      = {2026},
+  title={{HA-VLN 2.0: An Open Benchmark and Leaderboard for Human-Aware Navigation in Discrete and Continuous Environments with Dynamic Multi-Human Interactions}},
+  author={Dong, Yifei and Wu, Fengyi and He, Qi and Kong, Lingdong and Li, Heng and Li, Minghan and Cheng, Zebang and Zhou, Yuxuan and Sun, Jingdong and Dai, Qi and Hauptmann, Alexander G. and Cheng, Zhi-Qi},
+  booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems},
+  year={2026},
+  url={https://arxiv.org/abs/2503.14229}
 }
 ```
 
@@ -602,10 +603,11 @@ If you find this repository or our paper useful, please consider **starring** th
 
 ```bibtex
 @inproceedings{dong2026havln,
-  author    = {Dong, Yifei and Wu, Fengyi and He, Qi and Kong, Lingdong and Li, Heng and Li, Minghan and Cheng, Zebang and Zhou, Yuxuan and Sun, Jingdong and Dai, Qi and Hauptmann, Alexander G. and Cheng, Zhi-Qi},
-  title     = {{HA-VLN 2.0: An Open Benchmark and Leaderboard for Human-Aware Navigation in Discrete and Continuous Environments with Dynamic Multi-Human Interactions}},
-  booktitle = {2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-  year      = {2026},
+  title={{HA-VLN 2.0: An Open Benchmark and Leaderboard for Human-Aware Navigation in Discrete and Continuous Environments with Dynamic Multi-Human Interactions}},
+  author={Dong, Yifei and Wu, Fengyi and He, Qi and Kong, Lingdong and Li, Heng and Li, Minghan and Cheng, Zebang and Zhou, Yuxuan and Sun, Jingdong and Dai, Qi and Hauptmann, Alexander G. and Cheng, Zhi-Qi},
+  booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems},
+  year={2026},
+  url={https://arxiv.org/abs/2503.14229}
 }
 ```
 
